@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/r2w8nunpw3h1n2r9?svg=true)](https://ci.appveyor.com/project/abatsakidis/youtube-video-downloader)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1f1eaaaee674c82a2ae7dc2cb9acae1)](https://www.codacy.com/app/a.batsakidis/Youtube-Video-Downloader?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/Youtube-Video-Downloader&amp;utm_campaign=Badge_Grade)
 
 ## Description ##
 
