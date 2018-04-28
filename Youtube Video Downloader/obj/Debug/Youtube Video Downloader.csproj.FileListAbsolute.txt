@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Youtube Video Downloader.exe.config
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Youtube Video Downloader.exe
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Youtube Video Downloader.pdb
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\YoutubeExtractor.dll
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\YoutubeExtractor.xml
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube_Video_Downloader.Properties.Resources.resources
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.exe
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.pdb
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube_Video_Downloader.Form1.resources
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\YoutubeSearch.dll
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Youtube Video Downloader.exe.config
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Youtube Video Downloader.exe
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Youtube Video Downloader.pdb
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Newtonsoft.Json.dll
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\YoutubeExtractor.dll
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\YoutubeSearch.dll
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\Newtonsoft.Json.xml
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\bin\Debug\YoutubeExtractor.xml
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.csprojResolveAssemblyReference.cache
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube_Video_Downloader.Properties.Resources.resources
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.csproj.GenerateResource.Cache
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.csproj.CoreCompileInputs.cache
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.exe
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube Video Downloader.pdb
+F:\-=My Projects\Apple Studies\C#\Youtube Video Downloader\Youtube Video Downloader\obj\Debug\Youtube_Video_Downloader.Main.resources
