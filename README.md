@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r2w8nunpw3h1n2r9?svg=true)](https://ci.appveyor.com/project/abatsakidis/youtube-video-downloader)
+
+
 ## Description ##
 
 Youtube Search and Video Downloader.
